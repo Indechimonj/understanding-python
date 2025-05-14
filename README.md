@@ -1,2 +1,2 @@
-# python-game
-Its a simple computer game of python
+#understanding python
+Various code snippets that ive tried to help me understand python better.
