@@ -7,4 +7,5 @@ The topics include:
 4.Understanding interactive design using turtle module
 5.Understanding interface design by drawing fibannocci sequence spiral and drawing the modolor design by Le Corbusier the architect which uses golden ratio.
 6.Understanding refactoring by making the fibonnaci sequence more readable and efficient.
+7.Undertanding integer division and modulus operation using the time module to compute current time.
 
